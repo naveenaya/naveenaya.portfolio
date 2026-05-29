@@ -5,6 +5,3 @@
 💻 Web Developer | Data Analytics Enthusiast
 🔍 Actively seeking entry-level roles in Web Development or Data Analytics
 🛠️ HTML • CSS • JavaScript • Bootstrap • Python • Java • SQL • PHP
-📫 srinaveenaya99@gmail.com
-🌐 Portfolio: naveenaya.github.io
-This README shows up directly on your Git
